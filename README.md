@@ -1,4 +1,4 @@
-# BirdCLEF 2024 - Bird Sound Recognition
+# BirdCLEF - Bird Sound Recognition
 
 ## 🐦 About BirdCLEF
 
